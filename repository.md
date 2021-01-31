@@ -12,9 +12,11 @@ A repository is usually used to organize a single project. Repositories can cont
 ##Changelog
 
 ##Group Member:
-Franklin Tan
-Lennart Lewis
+<!-- Undordered List -->
+* Franklin Tan
+* Lennart Lewis
 
 ##Sources:
-https://trailhead.salesforce.com/en/content/learn/v/projects/develop-app-with-salesforce-cli-and-source-control/add-salesforce-dx-project-to-source-control
-https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories
+<!-- Undordered List -->
+* https://trailhead.salesforce.com/en/content/learn/v/projects/develop-app-with-salesforce-cli-and-source-control/add-salesforce-dx-project-to-source-control
+* https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories
