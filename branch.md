@@ -1,7 +1,7 @@
 ![Branching](https://www.nobledesktop.com/image/gitresources/git-branches-merge.png)
 ## What is a branch in Github?
 
-A branch is essentially is a unique set of code changes with a unique name. Each repository can have one or more branches. The main branch — the one where all changes eventually get merged back into, and is called master.## When is forking used? (example)
+A branch is essentially is a unique set of code changes with a unique name. Each repository can have one or more branches. The main branch — the one where all changes eventually get merged back into, and is called master.
 
 ## Why do we branch?
 
