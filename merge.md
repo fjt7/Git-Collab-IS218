@@ -21,10 +21,6 @@ To resolve the issue:
 
 ```git commit -m "<your commit message>"```
 
-## Group Member:
-* Franklin Tan
-* Lennart Lewis
-
 ## Sources:
 * https://www.atlassian.com/git/tutorials/using-branches/git-merge#:~:text=Merging%20is%20Git's%20way%20of,merge%20into%20the%20current%20branch.
 * https://backlog.com/git-tutorial/branching/merge/
