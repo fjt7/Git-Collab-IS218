@@ -8,7 +8,6 @@ To clone a repository means to duplicate and download everything in the reposito
 
 
 git clone https://github.com/gittower/git-crash-course.git other-name
-## Changelog
 
 ## Group Member:
 * Franklin Tan
