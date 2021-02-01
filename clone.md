@@ -9,10 +9,5 @@ To clone a repository means to duplicate and download everything in the reposito
 
 git clone https://github.com/gittower/git-crash-course.git other-name
 
-## Group Member:
-* Franklin Tan
-  
-* Lennart Lewis
-
 ## Sources:
 * https://www.git-tower.com/learn/git/commands/git-clone/
