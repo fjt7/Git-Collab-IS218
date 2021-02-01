@@ -21,8 +21,6 @@ To resolve the issue:
 
 ```git commit -m "<your commit message>"```
 
-## Changelog
-
 ## Group Member:
 * Franklin Tan
 * Lennart Lewis
