@@ -13,8 +13,6 @@ Use a branch to isolate development work without affecting other branches in the
 3. Stage and commit the new file to the working branch.
 4. Merge working branch changes
 
-## Changelog
-
 ## Group Member:
 * Franklin Tan
   
