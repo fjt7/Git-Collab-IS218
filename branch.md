@@ -11,7 +11,7 @@ Use a branch to isolate development work without affecting other branches in the
 1. Creating a new branch.
 2. Creating a new file.
 3. Stage and commit the new file to the working branch.
-4. Merge working branch changes
+4. Merge working branch changes.
 
 ## Sources:
 * https://thenewstack.io/dont-mess-with-the-master-working-with-branches-in-git-and-github/#:~:text=A%20branch%20is%20essentially%20is,into%2C%20and%20is%20called%20master.
