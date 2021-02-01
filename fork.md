@@ -6,7 +6,6 @@ A fork is a copy of a repository. Forking a repository allows you to freely expe
 * Proposing new changes.
 
 * Using someone else's project as the start point.
-## Changelog
 
 ## Group Member:
 * Franklin Tan
